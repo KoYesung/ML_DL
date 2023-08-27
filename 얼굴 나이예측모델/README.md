@@ -3,7 +3,7 @@
 
 <h3>📌 과제 개요</h3>
 
-- IMDB-WIKI의 이미지 데이터셋을 사용하여 연령을 예측하는 모델 구현하
+- IMDB-WIKI의 이미지 데이터셋을 사용하여 연령을 예측하는 모델 구현하기
 - [데이터셋](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 
 <h3>👩‍💻 과제 진행 과정</h3>
