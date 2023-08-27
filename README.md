@@ -16,7 +16,7 @@
 
 <h4> 📂 얼굴 나이 예측 모델 구현 </h4>
 
-* [바로 가기](https://github.com/KoYesung/ML_DL/tree/6c10b2982d8e3abcf02b6dc30e6ed6e93d0989aa/%EC%96%BC%EA%B5%B4%20%EB%82%98%EC%9D%B4%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8)
+* [바로 가기](https://github.com/KoYesung/ML_DL/tree/c2814f26401a0bd8006cb794551ec93fc3c55517/%EC%96%BC%EA%B5%B4%20%EB%82%98%EC%9D%B4%EC%98%88%EC%B8%A1%EB%AA%A8%EB%8D%B8)
 
 
 
