@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/80456601/131045057-95de77e8-daa8-406d-a5f5-0f27627b95c2.png" width="80%" height="80%"/>
 
 1. DB구조 파악 및 Column별 검토
-2. 분석에 필요한 Column 추가, 제 및 데이터 전처리 
+2. 분석에 필요한 Column 추가, 제거 및 데이터 전처리 
 3. EDA - 데이터 탐색 및 모델링에 필요한 Feature 파악
 4. 모델 분석 및 구축
 - LinearRegression 모델 구축
